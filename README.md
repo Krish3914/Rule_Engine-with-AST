@@ -101,9 +101,6 @@ rule-engine-ast/ ├── frontend/ │ ├── public/ │ ├── src/ �
 <br><br>
 
 ## Profile-Info
-<br><br>
-Email: krishagrawal3914@gmail.com
-<br>
-Portfolio: https://krishfolio.vercel.app/
-<br>
-LinkedIn: https://www.linkedin.com/in/krishagrawal-softwaredevelopment/
+- Email:  krishagrawal3914@gmail.com
+- Portfolio: https://krishfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/krishagrawal-softwaredevelopment/
